@@ -1,6 +1,6 @@
 # Suya, a Simple, Fast Cache Middleware(s) for Express ⚡
 
-![Suya](https://raw.githubusercontent.com/ridwanobafunso/suya/latest-v1.0.0/SUYA.gif 'Suya Library')
+![Suya](https://github.com/0xridwanobafunso/suya/blob/main/SUYA.gif?raw=true 'Suya Library')
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ridwanobafunso/suya)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat)](https://github.com/prettier/prettier)
